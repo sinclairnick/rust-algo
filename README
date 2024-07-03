@@ -1,0 +1,8 @@
+A miscellaneous collecion of algorithms, written in rust
+
+- Binary Search Tree
+- Bubble Sort
+- Cocktail Sort (bi-directional bubble sort)
+- Balanced Params
+- Merge Sort
+- Selection Sort
